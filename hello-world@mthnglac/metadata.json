@@ -1,0 +1,6 @@
+{
+  "uuid": "hello-world@mthnglac",
+  "name": "Hello, world! desklet",
+  "description": "Displays Hello, World!",
+  "prevent-decorations": false
+}
